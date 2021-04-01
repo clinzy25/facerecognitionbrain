@@ -1,4 +1,6 @@
-LIVE LINK: https://facerecognitionbrain0.herokuapp.com/
+View at : https://facerecognitionbrain0.herokuapp.com/
+
+- server may take up to 10s to respond
 
 # Getting Started with Create React App
 
